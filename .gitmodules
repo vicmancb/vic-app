@@ -1,0 +1,3 @@
+[submodule "vic-core"]
+	path = vic-core
+	url = https://github.com/vicmancb/vic-core.git
